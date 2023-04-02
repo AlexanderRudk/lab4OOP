@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 01 21:44:34 EEST 2023:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): экземпляр a816c00e-0187-3e22-b532-00000a391ed0
+в каталоге базы данных E:\Univer\ооп\4\dbRud sun.misc.Launcher$AppClassLoader@55f96302 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_333-b02
+user.dir=E:\Univer\ооп\4
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
